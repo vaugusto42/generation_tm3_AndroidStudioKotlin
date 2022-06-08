@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_3"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/buttonDice12"
+        android:layout_width="235dp"
+        android:layout_height="141dp"
+        android:scaleX="1"
+        android:scaleY="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonDice6"
+        app:srcCompat="@drawable/button_dice12" />
+
+    <ImageView
+        android:id="@+id/buttonDice20"
+        android:layout_width="235dp"
+        android:layout_height="139dp"
+        android:scaleX="1"
+        android:scaleY="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/buttonDice12"
+        app:srcCompat="@drawable/button_dice20" />
+
+    <ImageView
+        android:id="@+id/buttonDice6"
+        android:layout_width="234dp"
+        android:layout_height="140dp"
+        android:layout_marginTop="240dp"
+        android:scaleX="1"
+        android:scaleY="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/button_dice6" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

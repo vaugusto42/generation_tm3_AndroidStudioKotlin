@@ -1,0 +1,1 @@
+# generation_tm3_AndroidStudioKotlin

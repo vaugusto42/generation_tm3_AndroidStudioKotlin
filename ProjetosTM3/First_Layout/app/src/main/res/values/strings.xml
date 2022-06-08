@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PrimeiroProjeto</string>
+    <string name="welcome_to_nthe_apps">Welcome to \nthe apps</string>
+    <string name="sign_in">Sign In</string>
+    <string name="log_in">Log In</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in2">Sign In</string>
+    <string name="welcome_to_nthe_app">Welcome to\nthe app</string>
+    <string name="log_in2">Log In</string>
+</resources>

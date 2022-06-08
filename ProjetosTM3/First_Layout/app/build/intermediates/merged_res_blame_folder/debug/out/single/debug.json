@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\font_dela_gothic_one.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\font\\dela_gothic_one.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\font_comic_neue_light.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\font\\comic_neue_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable_shape.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable\\shape.xml"
+    },
+    {
+        "merged": "com.generation.primeiroprojeto.app-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "com.generation.primeiroprojeto.app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable_custom_buttom.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable\\custom_buttom.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable_images.jpg.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable\\images.jpg"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\font_coming_soon.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\font\\coming_soon.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\font_holtwood_one_sc.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\font\\holtwood_one_sc.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable_gradient_2.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable\\gradient_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-merged_res-21:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\victo\\.gradle\\daemon\\7.3.3\\com.generation.primeiroprojeto.app-main-23:\\drawable-v24\\ic_launcher_foreground.xml"
+    }
+]
