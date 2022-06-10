@@ -12,23 +12,13 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d478c88-ea4c-4ceb-805c-7b51a7ff6655" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/../TodoApp/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TodoApp/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TodoApp/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TodoApp/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TodoApp/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TodoApp/app/src/main/res/navigation/nav_graph.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../RollingTheDice" beforeDir="false" afterPath="$PROJECT_DIR$/../RollingTheDice" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TodoList_App/app/src/main/java/com/generation/todolist_app/SecondActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TodoList_App/app/src/main/res/layout/activity_second.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="8d478c88-ea4c-4ceb-805c-7b51a7ff6655" name="Changes" comment="teste" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[adb-5f3bac21fc02-nSycOZ._adb-tls-connect._tcp]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\victo\.android\avd\Pixel_4_API_30.avd]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -56,7 +46,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RollingTheDice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.-871404443">
