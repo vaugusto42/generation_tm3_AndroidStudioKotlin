@@ -8,9 +8,11 @@ import androidx.lifecycle.viewModelScope
 import com.generation.todoapp.api.Repository
 import com.generation.todoapp.model.Categoria
 import dagger.hilt.android.lifecycle.HiltViewModel
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import retrofit2.Response
 import java.lang.Exception
+import java.time.LocalDate
 import javax.inject.Inject
 
 @HiltViewModel
@@ -24,13 +26,15 @@ class MainViewModel @Inject constructor(
     val myCategoriaResponse: LiveData<Response<List<Categoria>>> =
         _myCategoriaResponse
 
+    val dataSelecionada = MutableLiveData<LocalDate>()
 
     init {
-        listCategoria()
+        //listCategoria()
     }
 
+    //corrotina
     fun listCategoria(){
-        viewModelScope.launch{
+        viewModelScope.launch(Dispatchers.IO){
             try {
 
                 val response = repository.listCategoria()
