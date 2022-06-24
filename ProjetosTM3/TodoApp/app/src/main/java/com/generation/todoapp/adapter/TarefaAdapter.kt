@@ -6,7 +6,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.generation.todoapp.databinding.CardLayoutBinding
 import com.generation.todoapp.model.Tarefa
 
-class TarefaAdapter : RecyclerView.Adapter<TarefaAdapter.TarefaViewHolder>(){
+class ProdutosAdapter : RecyclerView.Adapter<ProdutosAdapter.TarefaViewHolder>(){
 
     private var listTarefa = emptyList<Tarefa>()
 
