@@ -10,6 +10,7 @@ class Usuario(
     @PrimaryKey(autoGenerate = true)
     val id: Long,
     var nome: String,
+    var sobrenome: String,
     var idade: Int
 ) {
 }

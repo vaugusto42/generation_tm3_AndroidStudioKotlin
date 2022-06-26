@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/activity_main.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/card_layout.xml" value="0.33" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/fragment_add.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/fragment_form.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/fragment_list.xml" value="1.0" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/fragment_list2.xml" value="0.32916666666666666" />
+        <entry key="..\:/Users/victo/AndroidStudioProjects/ProjetosTM3/SQLitecomRoom/app/src/main/res/layout/fragment_list3.xml" value="0.2441123188405797" />
       </map>
     </option>
   </component>
