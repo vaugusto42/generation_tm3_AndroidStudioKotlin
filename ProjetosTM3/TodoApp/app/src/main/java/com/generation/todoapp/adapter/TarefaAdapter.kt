@@ -3,10 +3,14 @@ package com.generation.todoapp.adapter
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.generation.todoapp.MainViewModel
 import com.generation.todoapp.databinding.CardLayoutBinding
 import com.generation.todoapp.model.Tarefa
 
-class ProdutosAdapter : RecyclerView.Adapter<ProdutosAdapter.TarefaViewHolder>(){
+class TarefaAdapter (
+    val taskClickListener: TaskClickListener,
+    val mainViewModel: MainViewModel //atualização dinâmica
+        ): RecyclerView.Adapter<TarefaAdapter.TarefaViewHolder>(){
 
     private var listTarefa = emptyList<Tarefa>()
 
@@ -15,7 +19,8 @@ class ProdutosAdapter : RecyclerView.Adapter<ProdutosAdapter.TarefaViewHolder>()
 
     //cria o card onde as informações estarão
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): TarefaViewHolder {
-        return TarefaViewHolder(CardLayoutBinding.inflate(LayoutInflater.from(parent.context), parent, false))
+        return TarefaViewHolder(CardLayoutBinding.inflate(
+            LayoutInflater.from(parent.context), parent, false))
     }
 
     //cria os itens e os joga dentro dos componenetes que temos dentro do card
@@ -28,6 +33,10 @@ class ProdutosAdapter : RecyclerView.Adapter<ProdutosAdapter.TarefaViewHolder>()
         holder.binding.textData.text = tarefa.data
         holder.binding.switchAtivo.isChecked = tarefa.status
         holder.binding.textCategoria.text = tarefa.categoria.descricao
+
+        holder.itemView.setOnClickListener{
+            taskClickListener.onTaskClickListener(tarefa) //recuperamos a tarefa dentro do listfragment
+        }
 
     }
 

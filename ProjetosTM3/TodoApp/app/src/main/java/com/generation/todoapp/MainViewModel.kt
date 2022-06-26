@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.generation.todoapp.api.Repository
 import com.generation.todoapp.model.Categoria
+import com.generation.todoapp.model.Tarefa
 import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
@@ -20,13 +21,22 @@ class MainViewModel @Inject constructor(
     private  val repository: Repository
         ) : ViewModel() {
 
+    var tarefaSelecionada: Tarefa? = null
+
     private val _myCategoriaResponse =
         MutableLiveData<Response<List<Categoria>>>()
 
     val myCategoriaResponse: LiveData<Response<List<Categoria>>> =
         _myCategoriaResponse
 
+    private val _mytarefaResponse =
+        MutableLiveData<Response<List<Tarefa>>>()
+
+    val myTarefaResponse: LiveData<Response<List<Tarefa>>> =
+        _mytarefaResponse
+
     val dataSelecionada = MutableLiveData<LocalDate>()
+
 
     init {
         //listCategoria()
@@ -45,4 +55,38 @@ class MainViewModel @Inject constructor(
             }
         }
     }
+
+    fun addTarefa(tarefa: Tarefa){
+        viewModelScope.launch{
+            try {
+                repository.addTarefa(tarefa)
+            }catch (e:Exception){
+                Log.d("Erro", e.message.toString())
+            }
+        }
+    }
+
+    fun listTarefa(){
+        viewModelScope.launch {
+            try {
+                val response = repository.listTarefa()
+                _mytarefaResponse.value = response
+            }catch (e:Exception){
+                Log.d("Erro", e.message.toString())
+            }
+        }
+    }
+
+    fun updateTarefa(tarefa: Tarefa){
+        viewModelScope.launch {
+            try {
+                repository.updateTarefa(tarefa)
+                listTarefa()
+            }catch (e: Exception){
+                Log.d("Erro", e.message.toString())
+            }
+        }
+    }
+
+
 }
