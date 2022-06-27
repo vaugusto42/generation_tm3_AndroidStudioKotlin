@@ -32,12 +32,13 @@ class ListFragment : Fragment(), TaskClickListener {
         mainViewModel.listTarefa()
 
         //Configuração do RecyclerView
-        val adapter = TarefaAdapter(this, mainViewModel)
+        val adapter = TarefaAdapter(this, mainViewModel, requireContext())
         binding.recyclerTarefa.layoutManager = LinearLayoutManager(context)
         binding.recyclerTarefa.adapter = adapter
         binding.recyclerTarefa.setHasFixedSize(true)
 
         binding.floatingAdd.setOnClickListener{
+            mainViewModel.tarefaSelecionada = null
             findNavController().navigate(R.id.action_listFragment_to_formFragment)
         }
 
