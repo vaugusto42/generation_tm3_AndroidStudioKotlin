@@ -21,7 +21,7 @@ class thirdActivity_rollingDice20 : AppCompatActivity() {
     private fun rollDice(sides: Int){
         val rolling = (1..sides).random()
 
-        val textDice = findViewById<TextView>(R.id.random6)
+        val textDice = findViewById<TextView>(R.id.textView2)
 
         textDice.text = rolling.toString()
     }
