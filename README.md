@@ -1,7 +1,7 @@
 # Building Apps with Kotlin on Android Studio IDE
 
-Hello everyone! So here I've committed some examples that's been given in class during my studies at Generation Brazil Mobile Kotlin Bootcamp.
-If you wish, the Todo App compiles all the topics I've learned at the program and gives a better perspective on how all knoledge works together. 
+Hello everyone! So here I've committed some examples that's been given in class during my studies at Generation Brazil' Mobile Kotlin Bootcamp.
+If you want a more straigh forward approach, the Todo App compiles all the topics I've learned at the program and gives a better understanding on how all tools works together. 
 
 ## 🚀 Getting Starter
 
