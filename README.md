@@ -17,7 +17,7 @@ These instructions will allow you to make a working copy of the project on your 
 
 These programs have been built entierly on Google's Android Studio IDE so it's highly recommended that you [download](https://developer.android.com/studio?hl=pt-br&gclid=CjwKCAjw6MKXBhA5EiwANWLODPASuooMZmGRojWagc0lXdre9b0sYuCp8m9GcqyiFRhYaMFeHTFfVRoCxnkQAvD_BwE&gclsrc=aw.ds) the latest version of it to run the codes.
 
-## 🛠️ Here you'll find
+## 🛠️ Built with
 
 ✨ [Android Jetpack Components](https://developer.android.com/jetpack/getting-started) <br>
 ✨ [OOP with Kotlin](https://developer.android.com/courses/kotlin-android-fundamentals/overview)<br>
