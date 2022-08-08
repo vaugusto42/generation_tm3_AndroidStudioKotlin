@@ -19,10 +19,10 @@ These programs have been built entierly on Google's Android Studio IDE so it's h
 
 ## 🛠️ Here you'll find
 
-✨ Android Jetpack Components<br>
-✨ OOP with Kotlin<br>
-✨ Dependency Injections with Hilt (dagger)<br>
-✨ MVVM Architecture<br>
-✨ API integrations and coroutines<br>
-✨ SQLite with Room<br>
+✨ [Android Jetpack Components](https://developer.android.com/jetpack/getting-started) <br>
+✨ [OOP with Kotlin](https://developer.android.com/courses/kotlin-android-fundamentals/overview)<br>
+✨ [Dependency Injections with Hilt (dagger)](https://developer.android.com/training/dependency-injection/hilt-android) <br>
+✨ [MVVM Architecture](https://developer.android.com/topic/architecture)<br>
+✨ [API integrations](https://developer.android.com/reference)<br>
+✨ [SQLite with Room](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase)<br>
 
