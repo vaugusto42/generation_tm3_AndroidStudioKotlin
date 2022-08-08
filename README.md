@@ -24,5 +24,6 @@ These programs have been built entierly on Google's Android Studio IDE so it's h
 ✨ [Dependency Injections with Hilt (dagger)](https://developer.android.com/training/dependency-injection/hilt-android) <br>
 ✨ [MVVM Architecture](https://developer.android.com/topic/architecture)<br>
 ✨ [API integrations](https://developer.android.com/reference)<br>
+✨ [Coroutines](https://developer.android.com/kotlin/coroutines?hl=pt-br)<br>
 ✨ [SQLite with Room](https://developer.android.com/reference/android/arch/persistence/room/RoomDatabase)<br>
 
