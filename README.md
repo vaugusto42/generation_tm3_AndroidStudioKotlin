@@ -3,33 +3,44 @@
 Hello everyone! So here I've committed some examples that's been given in class during my studies at Generation Brazil Mobile Kotlin Bootcamp.
 If you wish, the Todo App compiles all the topics I've learned at the program and gives a better perspective on how all knoledge works together. 
 
-## 🚀 Começando
+## 🖥️ Here you'll find
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+✨ Android Jetpack Components<br>
+✨ OOP with Kotlin<br>
+✨ Dependency Injections with Hilt (dagger)<br>
+✨ MVVM Architecture<br>
+✨ API integrations and coroutines<br>
+✨ SQLite with Room<br>
 
-Consulte **Implantação** para saber como implantar o projeto.
+## 🚀 Getting Starter
 
-### 📋 Pré-requisitos
+These instructions will allow you to make a working copy of the project on your local machine for development and testing purposes.
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+
+### 📋 Prerequisites
+
+Here you'll find all you need to know about hardware required to install and use Android Studio (on Windows) with 0 risk of explosions hehe
+https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=pt-br#1
+
+### 🔧 Installation
+
+Theses programs have been built entierly on Google's Android Studio IDE so it's highly recommended that you download the latest version of it to run the codes.
+
+https://developer.android.com/studio?hl=pt-br&gclid=CjwKCAjw6MKXBhA5EiwANWLODPASuooMZmGRojWagc0lXdre9b0sYuCp8m9GcqyiFRhYaMFeHTFfVRoCxnkQAvD_BwE&gclsrc=aw.ds
 
 ```
-Dar exemplos
-```
-
-### 🔧 Instalação
-
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+
 
 Diga como essa etapa será:
 
-```
+
 Dar exemplos
-```
+
 
 E repita:
 
-```
+
 Até finalizar
 ```
 
