@@ -19,12 +19,12 @@ These instructions will allow you to make a working copy of the project on your 
 
 ### 📋 Prerequisites
 
-Here you'll find all you need to know about hardware required to install and use Android Studio (on Windows) with 0 risk of explosions.
-https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=pt-br#1
+[Here](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?hl=pt-br#1) you'll find all you need to know about hardware required to install and use Android Studio (on Windows) with 0 risk of explosions.
+
 
 ### 🔧 Installation
 
-These programs have been built entierly on Google's Android Studio IDE so it's highly recommended that you download the latest version of it to run the codes.
+These programs have been built entierly on Google's Android Studio IDE so it's highly recommended that you [download](https://developer.android.com/studio?hl=pt-br&gclid=CjwKCAjw6MKXBhA5EiwANWLODPASuooMZmGRojWagc0lXdre9b0sYuCp8m9GcqyiFRhYaMFeHTFfVRoCxnkQAvD_BwE&gclsrc=aw.ds) the latest version of it to run the codes.
 
-https://developer.android.com/studio?hl=pt-br&gclid=CjwKCAjw6MKXBhA5EiwANWLODPASuooMZmGRojWagc0lXdre9b0sYuCp8m9GcqyiFRhYaMFeHTFfVRoCxnkQAvD_BwE&gclsrc=aw.ds
+
 
